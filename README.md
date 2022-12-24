@@ -1,2 +1,7 @@
 # login_page
- Login page to the QRCode generator website(Final project assigned to my Team in the cohort))
+ 
+ This page is a simple Authentication login page
+ The Authentication is handled by a simple lines of javascript
+ A pop-up is set to alert you if your login is correct or not.
+ 
+ This is my first try out while taking the journey of becoming a Web developer.
